@@ -13,7 +13,6 @@ Após o pré-processamento/limpeza dos dados, havia cerca de 2.000 dados.
 A principal tarefa era prever a classificação IMDB de um filme.
 
 Isso foi considerado um problema de classificação, tendo 10 classes 1-10, ou seja, a classificação.
-Inicialmente havia muitos recursos que foram reduzidos usando o conhecimento do domínio, finalmente, apenas 9 recursos foram levados em consideração, os dados filtrados e processados são salvos no arquivo csv.csv posterior.
 
 Todos os modelos tem pickles.
 
