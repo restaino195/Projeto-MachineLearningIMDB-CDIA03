@@ -12,7 +12,7 @@ Após o pré-processamento/limpeza dos dados, havia cerca de 2.000 dados.
 
 A principal tarefa era prever a classificação IMDB de um filme.
 
-Isso foi considerado um problema de classificação, tendo 10 classes 1-10, ou seja, a classificação.
+Isso foi considerado um problema de classificação, tendo 1-10 classes, ou seja, era um problema bastante complicado
 
 Todos os modelos tem pickles.
 
